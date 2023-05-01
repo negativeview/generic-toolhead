@@ -1795,7 +1795,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0b730472-4d88-4203-865a-bbb0e5d9987c)
   )
-  (text "24V in.\nUSB in.\n\nPermanent ADXL345.\nPermanent TMC2209.\nHeater (or multiple?)\nThermistor (or multiple?)\nFans.\n\nIs there some way to make some of those genericy?"
+  (text "24V in.\nUSB in.\n\nPermanent ADXL345.\nPermanent TMC2209.\nHeater (or multiple?)\nThermistor (or multiple?)\nFans.\nRead EEPROM.\nSpeakers.\n\nIs there some way to make some of those genericy?"
     (at 13.97 195.58 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 31ccaaae-f799-44df-8d4a-6a87b44b6e8c)
