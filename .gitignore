@@ -1,2 +1,6 @@
 Generic Toolhead-backups/*
 fp-info-cache
+*.kicad_sch-bak
+place_footprints.log
+replicate_layout.log
+

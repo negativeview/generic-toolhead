@@ -119,7 +119,8 @@
         "use_height_for_length_calcs": true
       },
       "track_widths": [
-        0.0
+        0.0,
+        0.2
       ],
       "via_dimensions": [
         {
@@ -378,14 +379,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "RP2040",
-        "nets": [
-          "/MCU_ADXL_CS",
-          "/MCU_ADXL_INT1",
-          "/MCU_ADXL_INT2",
-          "/MCU_ADXL_SCL",
-          "/MCU_ADXL_SDA",
-          "/MCU_ADXL_SDO"
-        ],
+        "nets": [],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
@@ -488,6 +482,14 @@
     [
       "a2ad0ce4-4885-43db-ad1b-ab4b5b34ab48",
       "MOSFET Driver3"
+    ],
+    [
+      "e17cd05c-694e-4e1f-be6d-f1e0118a8089",
+      "ADXL"
+    ],
+    [
+      "ebc37613-6605-4b22-9c38-1c973dcda95f",
+      "Oscillator"
     ]
   ],
   "text_variables": {}
