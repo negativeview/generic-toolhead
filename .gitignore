@@ -3,4 +3,5 @@ fp-info-cache
 *.kicad_sch-bak
 place_footprints.log
 replicate_layout.log
-
+*-Check.txt
+fp-lib-table
